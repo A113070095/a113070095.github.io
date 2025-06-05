@@ -13,3 +13,6 @@ body {
     position: relative;
 }
 
+.carouselExampleControls {
+    padding: 100px;
+}
