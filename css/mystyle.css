@@ -1,5 +1,5 @@
 :root {
-    --bs-primary-rgb:rgb;
+    --bs-primary-rgb: 163,187.173;
     --bs-link-color: #333;
     --bs-link-hover-color:
 }
@@ -13,6 +13,3 @@ body {
     position: relative;
 }
 
-.subheading {
-    margin-left: 100%;
-}
