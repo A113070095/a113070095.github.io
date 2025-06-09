@@ -31,5 +31,16 @@ body {
     background-color: #9DCBBA;
 }
 
+#experience .card-body-centered {
+.card-body-centered {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
 
+#experience.card-img-centered {
+    display: block;
+    margin: 0 auto;
+  }
 
