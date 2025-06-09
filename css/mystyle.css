@@ -1,7 +1,7 @@
 :root {
-    --bs-primary-rgb: 163,187.173;
-    --bs-link-color: #333;
-    --bs-link-hover-color:
+    --bs-primary-rgb: 157, 203, 186;
+    --bs-link-color: #9DCBBA;
+    --bs-link-hover-color: #6D5959;
 }
 
 .bg-primary {
@@ -12,4 +12,24 @@
 body {
     position: relative;
 }
+
+#about {
+    position: relative; 
+    background-image: url(../js/1F28DEB5-D84A-4D6D-94E7-C04867EA67EB.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+
+.progress-bar.progress-bar-striped.progress-bar-animated {
+    background-color: #9DCBBA;
+}
+
+.btn{
+    background-color: #9DCBBA;
+}
+
+
 
